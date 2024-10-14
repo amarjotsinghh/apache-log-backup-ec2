@@ -1,5 +1,4 @@
 # apache-log-backup-ec2
-Here’s a sample `README.md` file for the `backup_logs.sh` script:
 
 ```markdown
 # Backup Logs Script - `backup_logs.sh`
